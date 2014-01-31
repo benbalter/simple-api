@@ -1,6 +1,4 @@
 ---
 ---
 Name,Age,Breed,Color
-{% for dog in site.data.dogs %}
-{{ dog[0] }},{{ dog[1].age }},{{ dog[1].breed }},{{ dog[1].color }}
-{% endfor %}
+{% for dog in site.data.dogs %}{{ dog[0] }},{{ dog[1].age }},{{ dog[1].breed }},{{ dog[1].color }}{% endfor %}
