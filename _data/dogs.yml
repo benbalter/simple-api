@@ -13,8 +13,6 @@ lassie:
   breed: collie
   color: brown
 
-
-
 poodle:
   age: 70
   breed: poodle
