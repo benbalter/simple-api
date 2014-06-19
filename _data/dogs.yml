@@ -14,7 +14,7 @@ lassie:
   color: brown
 
 poodle:
-  age: 70
+  age: 7
   breed: poodle
   color: while
 
